@@ -1,0 +1,6 @@
+name: pulumi-python-lab
+description: A minimal Google Cloud Python Pulumi program
+runtime:
+    name: python
+    options:
+        virtualenv: venv
