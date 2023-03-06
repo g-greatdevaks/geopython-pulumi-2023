@@ -6,6 +6,9 @@ Anmol Krishan Sachdeva</br>
 Hybrid Cloud Architect, Google</br>
 [LinkedIn@greatdevaks](https://www.linkedin.com/in/greatdevaks) | [Twitter@greatdevaks](https://www.twitter.com/greatdevaks)
 
+**Deck:**
+[Code-Centric Infrastructure as Code using Pulumi with Python](./GeoPython_Conference_2023_Code_Centric_Infrastructure_as_Code_Using_Pulumi_With_Python.pdf)
+
 **References:**
 - [Google Cloud Network and Instance with ComponentResource | Python](https://www.pulumi.com/registry/packages/gcp/how-to-guides/gcp-py-network-component/)
 - [Pulumi vs. Terraform](https://www.pulumi.com/docs/intro/vs/terraform/)
