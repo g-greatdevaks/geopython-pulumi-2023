@@ -18,5 +18,8 @@ Hybrid Cloud Architect, Google</br>
 - [Pulumi Stacks](https://www.pulumi.com/docs/intro/concepts/stack/)
 - [Pulumi Component Resource](https://www.pulumi.com/docs/intro/concepts/resources/components/)
 
+**Note:**
+Some of the graphics used in the slide deck have been referenced from the [official Pulumi website](https://pulumi.com).
+
 **Disclaimer:**</br>
 The content and the views presented during the talk/session are the author’s own and not of the organizations/companies they are associated with.
